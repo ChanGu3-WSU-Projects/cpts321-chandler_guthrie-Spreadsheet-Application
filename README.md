@@ -1,7 +1,8 @@
-# CptS321-Chandler_Guthrie-HWs
-
 # Name : Chandler Guthrie
-# WSUID: 011801740
+
+This is a spreadsheet application I created in my CPTS_321 (Object Oriented Software Principles)
+
+
 
 ## Style Cop Removals
 ### SA1401(All fields must be private): 
